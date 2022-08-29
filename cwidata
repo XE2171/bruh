@@ -1,0 +1,66 @@
+[
+  {
+    "number": 0,
+    "route": "SSB",
+    "destZ": "暫停服務",
+    "destY": "暫停服務",
+    "maxPZ": "1",
+    "priceZ1": "0.0",
+    "halfpriceZ1": "0.0",
+    "maxPY": "1",
+    "priceY1": "0.0",
+    "halfpriceY1": "0.0"
+  },
+  {
+    "number": 1,
+    "route": "30",
+    "destZ": "日落花園",
+    "destY": "巴膠花園",
+    "maxPZ": "5",
+    "priceZ1": "11.3",
+    "halfpriceZ1": "5.7",
+    "priceZ2": "9.8",
+    "halfpriceZ2": "4.9",
+    "priceZ3": "7.6",
+    "halfpriceZ3": "3.8",
+    "priceZ4": "6.3",
+    "halfpriceZ4": "3.2",
+    "priceZ5": "5.0",
+    "halfpriceZ5": "2.5"
+    "maxPY": "5",
+    "priceY1": "11.3",
+    "halfpriceY1": "5.7",
+    "priceY2": "9.8",
+    "halfpriceY2": "4.9",
+    "priceY3": "8.5",
+    "halfpriceY3": "4.3",
+    "priceY4": "6.5",
+    "halfpriceY4": "3.3",
+    "priceY5": "5.0",
+    "halfpriceY5": "2.5"
+  },
+  {
+    "number": 2,
+    "route": "30A",
+    "destZ": "日落谷站",
+    "destY": "飛馬嶺",
+    "maxPZ": "1",
+    "priceZ1": "7.2",
+    "halfpriceZ1": "3.6",
+    "maxPY": "1",
+    "priceY1": "7.2",
+    "halfpriceY1": "3.6"
+  },
+  {
+    "number": 3,
+    "route": "30U",
+    "destZ": "貨櫃碼頭",
+    "destY": "鳳凰山轉車站",
+    "maxPZ": "1",
+    "priceZ1": "5.2",
+    "halfpriceZ1": "2.6",
+    "maxPY": "1",
+    "priceY1": "5.2",
+    "halfpriceY1": "2.6"
+  }
+]
